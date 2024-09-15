@@ -42,7 +42,7 @@ class ShoppingCart:
 
   def add_cart(self, new_item):
     '''
-    Fungsi ini ditujukan untuk memasukkan item ke dalam shopping_cart
+    Fungsi ini ditujukan untuk memasukkan item ke dalam shopping_cart. Fungsi ini menerima 1 parameter
 
     Contoh penggunaan:
     keranjang.add_cart(new_item)
@@ -51,7 +51,8 @@ class ShoppingCart:
 
   def remove_cart(self, nama) -> bool:
     '''
-    Fungsi ini ditujukan untuk memasukkan item ke dalam shopping_cart dan akan return nilai boolean
+    Fungsi ini ditujukan untuk memasukkan item ke dalam shopping_cart dan akan return nilai boolean.
+    Fungsi ini menerima 1 parameter
 
     Contoh penggunaan:
     hapus_cart = keranjang.remove_cart(item_to_remove)
