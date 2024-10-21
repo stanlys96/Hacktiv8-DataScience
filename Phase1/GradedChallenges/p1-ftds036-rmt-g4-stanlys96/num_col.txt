@@ -1,0 +1,1 @@
+["latitude", "longitude", "bedrooms", "bathrooms", "land_area", "building_area", "floors", "maid_bedrooms", "maid_bathrooms", "voltage", "building_age", "year"]
